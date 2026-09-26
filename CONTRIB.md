@@ -195,3 +195,8 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| xor_encryption | https://pub.dev/packages/xor_encryption | https://fluttergems.dev/cryptography-security-permissions/ |
+| calendar_cc | https://pub.dev/packages/calendar_cc | https://fluttergems.dev/calendar/ |
+| flutter_asset_cleaner | https://pub.dev/packages/flutter_asset_cleaner | https://fluttergems.dev/developer-tools/ |
+| as_instapicker | https://pub.dev/packages/as_instapicker |https://fluttergems.dev/multimedia-picker/|
+| instacrop | https://pub.dev/packages/instacrop | https://fluttergems.dev/multimedia-picker/| 
